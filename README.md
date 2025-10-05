@@ -1,6 +1,6 @@
-## Hi there 👋
-# 💫 About Me:
-⚡ Fun fact🔭 I'm currently working on a dynamic Tax Refund Management System designed for local governments, with a modular Django backend and a React-based frontend using Zustand and Tailwind CSS.<br>👯 I'm looking to collaborate on open-source civic tech, automation tools, and AI-assisted developer workflows.<br>🤝 I'm looking for help with building scalable frontend architectures and mastering advanced API integrations.<br>🌱 I'm currently learning data science fundamentals, system architecture design, and DevOps practices to level up my full-stack game.<br>💬 Ask me about Django, REST APIs, React, building with AI copilots.<br>⚡ Fun fact: I’m on a mission to become a senior developer by 24 and a data scientist by 30
+## Hi there
+# About Me:
+I'm looking to collaborate on open-source civic tech, automation tools, and AI-assisted developer workflows.<br>I'm looking for help with building scalable frontend architectures and mastering advanced API integrations.<br>I'm currently learning data science fundamentals, system architecture design, and DevOps practices to level up my full-stack game.<br>💬 Ask me about Django, REST APIs, React, building with AI copilots.<br>Fun fact: I’m on a mission to become a senior developer by 24 and a data scientist by 30
 
 
 ## 🌐 Socials:
